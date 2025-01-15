@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is GeekyPawz
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is GeekyPawz
 =================================================================================================================================
 
 Front-End Developer | Python & AI Enthusiast
@@ -6,7 +7,6 @@ Front-End Developer | Python & AI Enthusiast
 
 I am GeekyPawz, a front-end developer passionate about creativity. I specialize in HTML, CSS, and JavaScript, crafting intuitive interfaces and visually striking designs.
 
-* 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [MyPortfolio](http://porfolio.com)
 * 🧠  I'm learning Python
 
