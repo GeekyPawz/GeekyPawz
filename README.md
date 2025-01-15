@@ -1,13 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is GeekyPawz
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm GeekyPawz
 =================================================================================================================================
 
-Front-End Developer | Python & AI Enthusiast
+😊 About Me
 --------------------------------------------
-
-I am GeekyPawz, a front-end developer passionate about creativity. I specialize in HTML, CSS, and JavaScript, crafting intuitive interfaces and visually striking designs.
 
 * 🖥️  See my portfolio at [GeekyPawz](http://porfolio.com)
 * 🧠  I'm learning Python and Djanjo
+* 😐 I love programming and tinkering with new technologies
+* 🌱 I’m currently Working with Spring Boot, Azure
+* 🎓 I’m currently learning Batch Processing ,Caching mechanisms and search optimizations
+* ⚡ Always looking for new challenges
 
 ### Skills
 
