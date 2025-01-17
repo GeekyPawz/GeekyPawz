@@ -9,7 +9,7 @@ About Me
 * 🧠 I'm currently learning Python and Djanjo.
 * 😊 I love programming and tinkering with new technologies.
 * ⚡ Always looking for new challenges.
-* 🖥️ See my portfolio at [GeekyPawz](http://porfolio.com)
+* 🖥️ See my portfolio at [GeekyPawz]([http://porfolio.com](https://geekypawz.github.io))
 
 ## Skills
 
