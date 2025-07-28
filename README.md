@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Hi 👋, I'm GeekyPawz</h2>
+  <h2> Hi 👋, I'm Alyrakku </h2>
   <img src="https://pbs.twimg.com/media/GhTrsh9WcAASEQJ?format=jpg&name=small" alt="otter" height="auto" width="1200"/>
 </div>
 
@@ -9,7 +9,7 @@ About Me
 * 🧠 I'm currently learning Python and Djanjo.
 * 😊 I love programming and tinkering with new technologies.
 * ⚡ Always looking for new challenges.
-* 🖥️ See my portfolio at [GeekyPawz](https://geekypawz.github.io)
+* 🖥️ See my portfolio at [Alyrakku](https://geekypawz.github.io)
 
 ## Skills
 
